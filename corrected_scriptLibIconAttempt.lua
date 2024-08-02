@@ -27,7 +27,7 @@ function library:CreateWindow(name, version, icon)
 Window.BackgroundColor3 = Color3.new(0, 0, 0) -- Start with black
 Window.Visible = true
 local tweenInfo = TweenInfo.new(2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
-local tween = TS:Create(Window, tweenInfo, {BackgroundColor3 = Color3.new(0.5, 0, 0.5)}) -- Target color: purple
+local tween = TS:Create(Window, tweenInfo, {BackgroundColor3 = Color3.new(255, 182, 193)}) -- Target color: purple
 tween:Play()
 
 	local Close = Instance.new("ImageButton")
