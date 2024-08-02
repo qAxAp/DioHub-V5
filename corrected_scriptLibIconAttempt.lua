@@ -63,7 +63,7 @@ Window.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 	Icon.Name = "Icon"
 	Icon.Parent = TitleBar
-	Icon.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+	Icon.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 	Icon.BackgroundTransparency = 1.000
 	Icon.Position = UDim2.new(0, 6, 0, 6)
 	Icon.Size = UDim2.new(0, 18, 0, 18)
@@ -72,7 +72,7 @@ Window.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 	MainTitle.Name = "Title"
 	MainTitle.Parent = TitleBar
-	MainTitle.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+	MainTitle.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 	MainTitle.BackgroundTransparency = 1.000
 	MainTitle.Position = UDim2.new(0, 30, 0, 1)
 	MainTitle.Size = UDim2.new(1, -30, 1, 0)
@@ -84,7 +84,7 @@ Window.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 	TitleUnderline.Name = "TitleUnderline"
 	TitleUnderline.Parent = TitleBar
-	TitleUnderline.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+	TitleUnderline.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 	TitleUnderline.BorderSizePixel = 0
 	TitleUnderline.Position = UDim2.new(0, 0, 1, 0)
 	TitleUnderline.Size = UDim2.new(1, 0, 0, 1)
@@ -93,7 +93,7 @@ Window.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 	Bar.Name = "Bar"
 	Bar.Parent = TitleUnderline
-	Bar.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+	Bar.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 	Bar.BackgroundTransparency = 0.750
 	Bar.BorderSizePixel = 0
 	Bar.Position = UDim2.new(0, 6, 0, 0)
@@ -101,7 +101,7 @@ Window.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 	Bar_2.Name = "Bar"
 	Bar_2.Parent = TitleUnderline
-	Bar_2.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+	Bar_2.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 	Bar_2.BackgroundTransparency = 0.750
 	Bar_2.BorderSizePixel = 0
 	Bar_2.Position = UDim2.new(1, -24, 0, 0)
@@ -119,7 +119,7 @@ Window.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 	Minimize.Name = "Minimize"
 	Minimize.Parent = TitleBar
-	Minimize.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+	Minimize.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 	Minimize.BackgroundTransparency = 1.000
 	Minimize.Position = UDim2.new(0.953, -24, -0.2, 6)
 	Minimize.Size = UDim2.new(0, 26, 0, 30)
@@ -127,7 +127,7 @@ Window.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 	_4pxShadow2px_2.Name = "4pxShadow(2px)"
 	_4pxShadow2px_2.Parent = Window
-	_4pxShadow2px_2.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+	_4pxShadow2px_2.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 	_4pxShadow2px_2.BackgroundTransparency = 1.000
 	_4pxShadow2px_2.Position = UDim2.new(0, -15, 0, -15)
 	_4pxShadow2px_2.Selectable = true
@@ -244,7 +244,7 @@ Tabs.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 		SectionLabel.Name = "SectionLabel"
 		SectionLabel.Parent = Tabs
-		SectionLabel.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+		SectionLabel.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 		SectionLabel.BackgroundTransparency = 1.000
 		SectionLabel.Position = UDim2.new(0, 7, 0, 0)
 		SectionLabel.Size = UDim2.new(1, -7, 0, 30)
@@ -306,8 +306,8 @@ Tabs.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 			Page.Name = "Page"
 			Page.Parent = Window
 			Page.Active = true
-			Page.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
-			Page.BorderColor3 = Color3.fromRGB(255, 255, 255)
+			Page.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
+			Page.BorderColor3 = Color3.fromRGB(220, 20, 60)
 			Page.BorderSizePixel = 0
 			Page.Position = UDim2.new(0, 150, 0, 36)
 			Page.Size = UDim2.new(1, -155, 1, -41)
@@ -332,7 +332,7 @@ Tabs.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 			SearchBar.Name = "SearchBar"
 			SearchBar.Parent = Page
-			SearchBar.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+			SearchBar.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 			SearchBar.Size = UDim2.new(1, 0, 0, 30)
 
 			UICorner_4.CornerRadius = UDim.new(0, 4)
@@ -582,7 +582,7 @@ Button.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 
 				Title.Name = "Title"
 				Title.Parent = Button
-				Title.BackgroundColor3 = Color3.fromRGB(255, 182, 193)
+				Title.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 				Title.BackgroundTransparency = 1.000
 				Title.Position = UDim2.new(0, 7, 0, 1)
 				Title.Size = UDim2.new(1, -7, 0.5, 0)
