@@ -236,7 +236,7 @@ Tabs.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 
 		SectionLabel.Name = "SectionLabel"
 		SectionLabel.Parent = Tabs
-		SectionLabel.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
+		SectionLabel.BackgroundColor3 = Color3.fromRGB(64, 64, 64)
 		SectionLabel.BackgroundTransparency = 1.000
 		SectionLabel.Position = UDim2.new(0, 7, 0, 0)
 		SectionLabel.Size = UDim2.new(1, -7, 0, 30)
