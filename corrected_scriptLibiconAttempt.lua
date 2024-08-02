@@ -372,7 +372,7 @@ Tabs.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 
 			SectionContainer.Name = "SectionContainer"
 			SectionContainer.Parent = Section
-			SectionContainer.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			SectionContainer.BackgroundColor3 = Color3.fromRGB(64, 64, 64)
 			SectionContainer.BorderSizePixel = 0
 			SectionContainer.ClipsDescendants = true
 			SectionContainer.Position = UDim2.new(0, 0, 1.25310734e-07, 0)
@@ -381,7 +381,7 @@ Tabs.BackgroundColor3 = Color3.fromRGB(220, 20, 60)
 
 			Header.Name = "Header"
 			Header.Parent = Section
-			Header.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Header.BackgroundColor3 = Color3.fromRGB(64, 64, 64)
 			Header.BorderSizePixel = 0
 			Header.Size = UDim2.new(1, 0, 0, 8)
 
